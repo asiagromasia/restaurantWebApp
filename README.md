@@ -1,5 +1,6 @@
 # Restaurant Web Application 
-working app for Maitre'D, Waiter and cook to work together
+working web app for Maitre'D, Waiter and Cook to work together
+
 
 Created using React.js 
 MERN stack 
